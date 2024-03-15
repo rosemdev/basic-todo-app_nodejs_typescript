@@ -1,7 +1,7 @@
 import express from 'express';
 import bodyParser from 'body-parser';
 
-import todoRoutes from './rotes/todos';
+import todoRoutes from './routes/todos';
 
 const app = express();
 
